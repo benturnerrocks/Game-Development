@@ -1,5 +1,5 @@
 # Game-Development
-A repository for game development which I am teaching myself for fun. The games include: 
+Game development which I am teaching myself for fun. The games include: 
 - Mastermind (Python)
 - Snake (Pygame)
 - Space Race (Javascript)
